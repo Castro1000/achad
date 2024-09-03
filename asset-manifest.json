@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/achados/static/css/main.087af21f.css",
+    "main.js": "/achados/static/js/main.cbe74861.js",
+    "index.html": "/achados/index.html",
+    "main.087af21f.css.map": "/achados/static/css/main.087af21f.css.map",
+    "main.cbe74861.js.map": "/achados/static/js/main.cbe74861.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087af21f.css",
+    "static/js/main.cbe74861.js"
+  ]
+}
